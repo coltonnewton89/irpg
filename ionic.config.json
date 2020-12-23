@@ -1,0 +1,7 @@
+{
+  "name": "irpg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
