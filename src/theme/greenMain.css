@@ -1,0 +1,136 @@
+/* Risk Management */
+.riskManagement_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+  background-color: rgb(13, 214, 114);
+}
+
+.shellDivOne {
+  display: grid;
+  grid-template-columns: 45% 55%;
+}
+
+.divOne {
+  display: grid;
+  justify-items: left;
+}
+
+.divOne p {
+  margin-left: 5%;
+}
+
+.divTwo {
+  display: grid;
+  justify-items: left;
+}
+/*=======================================*/
+
+/* Planning for  */
+.planningFor_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+  background-color: rgb(13, 214, 114);
+}
+/*=======================================*/
+
+/* Look Up  */
+.lookUp_container {
+  display: grid;
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+  background-color: rgb(13, 214, 114);
+}
+
+.trOne {
+  background-color: rgba(0, 0, 0, 0.171);
+}
+
+th {
+  border: black solid 2px;
+}
+
+td {
+  border: black solid 2px;
+}
+
+.trTwo {
+  background-color: rgba(0, 0, 0, 0.171);
+}
+/*=======================================*/
+
+/* Common Den  */
+.commonDen_container {
+  display: grid;
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+  background-color: rgb(13, 214, 114);
+}
+
+/*=======================================*/
+
+/* Common tactics  */
+.commonTactics_container {
+  display: grid;
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+  background-color: rgb(13, 214, 114);
+}
+/*=======================================*/
+
+/* LCES  */
+.lces_container {
+  display: grid;
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+  background-color: rgb(13, 214, 114);
+}
+/*=======================================*/
+
+/* Safety  */
+.safety_container {
+  display: grid;
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+  background-color: rgb(13, 214, 114);
+}
+/*=======================================*/
+
+/* Downhill  */
+.downHill_container {
+  display: grid;
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+  background-color: rgb(13, 214, 114);
+}
+/*=======================================*/
+
+/* Indicators */
+.indicators_container {
+  display: grid;
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+  background-color: rgb(13, 214, 114);
+}
+.indicators_container tr {
+  display: grid;
+  grid-template-columns: 55% 45%;
+}
+/*=======================================*/
+
+/* Wui */
+.wui_container {
+  display: grid;
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+  background-color: rgb(13, 214, 114);
+}

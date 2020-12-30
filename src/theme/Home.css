@@ -1,5 +1,6 @@
 .homeShell {
   overflow: scroll;
+  scroll-behavior: smooth;
 }
 
 .homeContainer {

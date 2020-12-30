@@ -1,0 +1,131 @@
+/* ===========WHITE X PAGES=========== */
+/* SizeUP Report */
+.sizeup_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}
+
+.sizeup_ul {
+  padding: 0%;
+}
+
+.sizeup_ul li {
+  margin-top: 20px;
+  list-style-type: none;
+}
+
+.sizeup_li {
+  width: 100%;
+  text-align: center;
+}
+
+.sizeupCheckBox {
+  margin-right: 20px;
+}
+/*=======================================*/
+
+/* Briefing Checklist */
+.briefing_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}
+
+.briefing_ul {
+  padding: 0%;
+}
+
+.briefing_ul li {
+  margin-top: 20px;
+  list-style-type: none;
+}
+
+.briefing_li {
+  width: 100%;
+  text-align: center;
+}
+
+.briefingCheckBox {
+  margin-right: 20px;
+}
+/*=======================================*/
+
+/* Tens and Eighteens */
+.tensAndEighteens_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}
+/*=======================================*/
+
+/* IRS */
+.irs_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}
+/*=======================================*/
+
+/* Operational */
+.operational_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}
+
+.operational_ul {
+  padding: 10%;
+  text-align: center;
+}
+.operational_ul li {
+  margin-top: 20px;
+}
+/* Duty */
+.duty_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}
+
+/* Respect */
+.respect_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}
+
+/* Integrity */
+.integrity_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}
+/*=======================================*/
+
+/* Communication and leaders intent */
+.com_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}
+/*=======================================*/
+
+/* Human Factors */
+.human_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}
+
+.human_container ul {
+  padding: 10%;
+}
+/*=======================================*/
+
+/* AAR */
+.aar_container {
+  height: fit-content;
+  text-align: center;
+  box-shadow: 0px 10px 5px #3a3939;
+}

@@ -5,7 +5,6 @@ import AccordionSummary from '@material-ui/core/AccordionSummary';
 import AccordionDetails from '@material-ui/core/AccordionDetails';
 import Typography from '@material-ui/core/Typography';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
-
 import ContentWhiteX from '../pages/whiteX/contentWhiteX';
 import ContentGreen from '../pages/green/ContentGreen'
 import ContentGray from '../pages/gray/ContentGray'
@@ -14,13 +13,18 @@ import ContentBlue from '../pages/blue/ContentBlue'
 import ContentWhite from '../pages/white/ContentWhite'
 import ContentPink from '../pages/pink/ContentPink'
 
+import WhiteXmain from '../pages/whiteX/WhiteXmain'
+import '../theme/whiteXmain.css'
+import GreenMain from '../pages/green/greenMain'
+import '../theme/greenMain.css'
+
 const useStyles = makeStyles((theme) => ({
   root: {
     width: '100%',
   },
   heading: {
     fontSize: theme.typography.pxToRem(15),
-    fontWeight: theme.typography.fontWeightRegular,
+    fontWeight: theme.typography.fontWeightBold,
   },
 }));
 
@@ -40,6 +44,7 @@ export default function SimpleAccordion() {
         <AccordionDetails>
           <ContentWhiteX/>
         </AccordionDetails>
+        <WhiteXmain/>
       </Accordion>
       
       <Accordion id='green'>
@@ -53,6 +58,7 @@ export default function SimpleAccordion() {
         <AccordionDetails>
           <ContentGreen/>
         </AccordionDetails>
+        <GreenMain/>
       </Accordion>
 
       <Accordion id='gray'>

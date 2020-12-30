@@ -2,6 +2,7 @@
   background-color: white;
   color: black;
   text-align: center !important;
+  /* height: 100vh !important; */
 }
 
 .contentsTitle {
@@ -9,10 +10,6 @@
 }
 
 /* Accordion Styles */
-#accord {
-  height: 100vh;
-}
-
 .MuiAccordionDetails-root {
   display: flex !important;
   justify-content: center;
@@ -23,8 +20,7 @@
 }
 
 #gray {
-  background-color: rgb(70, 70, 70);
-  color: white;
+  background-color: rgb(177, 177, 177);
 }
 
 #yellow {
@@ -63,13 +59,8 @@
 /* Gray Pages */
 .contentsGray {
   display: grid;
-  background-color: rgb(70, 70, 70);
-  color: white;
+  background-color: rgb(177, 177, 177);
   height: 100vh;
-}
-
-.contentsGray a {
-  color: white;
 }
 
 /* Yellow Contents */

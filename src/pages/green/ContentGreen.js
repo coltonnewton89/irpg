@@ -6,16 +6,16 @@ class ContentGreen extends Component {
         return ( 
             <div className="contentsGreen">
                     <h4>Operational Engagement</h4>
-                    <a href="" className='contentLink'>Risk Management</a>
-                    <a href="" className='contentLink'>Planning for Medical Emergencies</a>
-                    <a href="" className='contentLink'>Look Up, Down and Around</a>
-                    <a href="" className='contentLink'>Common Denominators of Fire Behavior on Tragedy Fires</a>
-                    <a href="" className='contentLink'>Common Tactical Hazards</a>
-                    <a href="" className='contentLink'>LCES</a>
-                    <a href="" className='contentLink'>Safety Zones</a>
-                    <a href="" className='contentLink'>Downhill Checklist</a>
-                    <a href="" className='contentLink'>Indicators of Incident Complexity</a>
-                    <a href="" className='contentLink'>Wildland Urban Interface Firefighting</a>
+                    <a href="#riskManagement_container" className='contentLink'>Risk Management</a>
+                    <a href="#planningFor_container" className='contentLink'>Planning for Medical Emergencies</a>
+                    <a href="#lookUp_container" className='contentLink'>Look Up, Down and Around</a>
+                    <a href="#commonDen_container" className='contentLink'>Common Denominators of Fire Behavior on Tragedy Fires</a>
+                    <a href="#commonTactics_container" className='contentLink'>Common Tactical Hazards</a>
+                    <a href="#lces_container" className='contentLink'>LCES</a>
+                    <a href="#safety_container" className='contentLink'>Safety Zones</a>
+                    <a href="#downHill_container" className='contentLink'>Downhill Checklist</a>
+                    <a href="#indicators_container" className='contentLink'>Indicators of Incident Complexity</a>
+                    <a href="#wui_container" className='contentLink'>Wildland Urban Interface Firefighting</a>
                 </div>
          );
     }
