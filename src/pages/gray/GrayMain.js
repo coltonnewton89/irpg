@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../../theme/grayMain.css'
+
 
 import Refuse from '../gray/Refuse'
 import Thunder from '../gray/Thunder'
@@ -17,7 +17,7 @@ class GrayMain extends Component {
     render() { 
         return ( 
             <div>
-                {/* <Refuse/>
+                <Refuse/>
                 <Thunder/>
                 <Tree/>
                 <Powerline/>
@@ -25,7 +25,7 @@ class GrayMain extends Component {
                 <Uxo/>
                 <Oil/>
                 <SmokeHaz/>
-                <SmokeTrans/> */}
+                <SmokeTrans/>
                 <Last/>
             </div>
          );

@@ -4,7 +4,7 @@ class Thunder extends Component {
     state = {  }
     render() { 
         return ( 
-            <div className="thunder_container">
+            <div className="thunder_container" id='thunder_container'>
                 <h2><b>Thunderstorm Safety</b></h2>
                 <p>Approaching thunderstorms may be noted by a sudden
                 reverse in wind direction, a noticeable rise in wind speed, and

@@ -4,7 +4,7 @@ class Refuse extends Component {
     state = {  }
     render() { 
         return ( 
-            <div className="refuse_container">
+            <div className="refuse_container" id='refuse_container'>
                 <h2><b>How to Properly Refuse Risk</b></h2>
                 <p>Every individual has the right and obligation to report
                 safety problems and contribute ideas regarding their

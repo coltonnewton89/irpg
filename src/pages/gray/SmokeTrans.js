@@ -4,7 +4,7 @@ class SmokeTrans extends Component {
     state = {  }
     render() { 
         return ( 
-            <div className="smokeTrans_container">
+            <div className="smokeTrans_container" id='smokeTrans_container'>
                 <h2><b>Smoke and Transportation Safety</b></h2>
                 <p><b>1. Assess safety risks to personnel and public posed
                 by smoke on roads.</b> During initial attack and/or daily

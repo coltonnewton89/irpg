@@ -4,7 +4,7 @@ class Oil extends Component {
     state = {  }
     render() { 
         return ( 
-            <div className="oil_container">
+            <div className="oil_container" id='oil_container'>
                 <h2><b>Oil and Gas Site Safety</b></h2>
                 <p>When responding to an incident with oil and gas fields
                 and/or coal seams, you must receive the appropriate

@@ -4,7 +4,7 @@ class Tree extends Component {
     state = {  }
     render() { 
         return ( 
-            <div className="tree_container">
+            <div className="tree_container" id='tree_container'>
                 <h2><b>Hazard Tree Safety</b></h2>
                 <p>Hazard trees, both dead snags and live green trees, are
                 one of the most common risks encountered on the

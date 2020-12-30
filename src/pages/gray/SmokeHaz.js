@@ -4,7 +4,7 @@ class SmokeHaz extends Component {
     state = {  }
     render() { 
         return ( 
-            <div className="smokeHaz_container">
+            <div className="smokeHaz_container" id='smokeHaz_container'>
                 <h2><b>Smoke Hazards and Mitigation</b></h2>
                 <b>1. Line Personnel</b>
                 <br/>

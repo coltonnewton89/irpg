@@ -17,6 +17,8 @@ import WhiteXmain from '../pages/whiteX/WhiteXmain'
 import '../theme/whiteXmain.css'
 import GreenMain from '../pages/green/greenMain'
 import '../theme/greenMain.css'
+import GrayMain from '../pages/gray/GrayMain'
+import '../theme/grayMain.css'
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -72,6 +74,7 @@ export default function SimpleAccordion() {
         <AccordionDetails>
           <ContentGray/>
         </AccordionDetails>
+        <GrayMain/>
       </Accordion>
 
       <Accordion id='yellow'>
